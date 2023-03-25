@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.chessmultitnet",                              
+  "displayName": "Multi Chess Demo for TNET3",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Package to do chess multiplayer with TNet3 on Quest 2",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"git@github.com-EloiStree:EloiStree/2023_03_25_ChessDemoMultiTNET3.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

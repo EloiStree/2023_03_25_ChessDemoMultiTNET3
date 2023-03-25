@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.chessmultitnetEditor",          
+    "references": ["be.eloistree.chessmultitnet"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
